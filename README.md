@@ -6,7 +6,7 @@
   - GDP Online debugger (multiple college level projects)
     - https://www.onlinegdb.com 
   
-## Summer 2022
+## Summer-Fall 2022
 - Graduated May 2022 w/ B.S. Biology
 - Began exploring new programming resources
   - New Languages to be explored
@@ -27,16 +27,16 @@
 - Started to branch out and start designing myy own projects to add to my portfolio
 
 ## December 27, 2022
-
 - Talked With Charles about my next steps to becoming a professional software engineer
 - Talked about Closures
   - http://goshdarnclosuresyntax.com/
 - Talked about Protocols
 
-- Next Steps...
-  - https://seanallen.teachable.com
-  - https://www.youtube.com/playlist?list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
-  
+- Next Steps...Over the next 3-4 weeks
+  - Sean Allen iOS Swift Basics Lectures
+    - https://seanallen.teachable.com
+  - Stanford CS1 SwiftUI course playlist
+    - https://www.youtube.com/playlist?list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
    
 ## December 28, 2022
 
