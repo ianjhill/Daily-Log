@@ -42,4 +42,12 @@
 
 - Watched Sean Allen's iOS teachable lectures
   - Getting Started
+    - Why choosing Swift
+    - XCode startup
   - Swift Language Basics
+    - Basic Types
+    - Variables & Constants
+    - Arrays
+    - Sets
+    - Dictionaries
+    - Functions
