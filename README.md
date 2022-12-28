@@ -1,4 +1,4 @@
-# Daily-Log
+# Daily Log
 
 ## Ramapo College Spring Semester 2022
 - CS1 course (first official programming experience course)
