@@ -56,4 +56,9 @@
     - Operators
     - Optionals
     
+## December 29, 2022
 
+- Sean Allen iOS teachable lectures
+  - Swift Language Basics Pt. 3
+    - Classes
+    - Structs
