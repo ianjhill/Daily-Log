@@ -40,14 +40,20 @@
    
 ## December 28, 2022
 
-- Watched Sean Allen's iOS teachable lectures
+- Began Watching Sean Allen's iOS teachable lectures
   - Getting Started
     - Why choosing Swift
     - XCode startup
-  - Swift Language Basics
+  - Swift Language Basics Pt. 1
     - Basic Types
     - Variables & Constants
     - Arrays
     - Sets
     - Dictionaries
     - Functions
+  - Swift Language Basics Pt. 2
+    - Control Flow
+    - Operators
+    - Optionals
+    
+
