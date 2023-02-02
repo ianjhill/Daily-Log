@@ -62,3 +62,40 @@
   - Swift Language Basics Pt. 3
     - Classes
     - Structs
+
+## December 30, 2022 - January 5, 2023
+
+- Finish Sean Allen iOS teachable lectures
+  - Began researching potential app ideas
+  - Linked with Charles again and planned my next moves
+  
+## January 7, 2023 - January 27, 2023
+
+- Watched all 16 lectures videos of Stanford's CS193p course on Youtube
+  - Some Takeaways
+    - More inclined to learn with a far less technical thrown at you approach
+    - I like to see a couple lines of code and then see them slowly broken down into their components explained in easier terms
+    - Sean Allen is a very good teacher as he takes his time with explaining these concepts in his teachable lectures
+    - Considering buying his SwiftUI courses on teachable & watching his Youtube videos on SwiftUI
+    
+## January 28, 2023
+
+- Started reading "Develop in Swift: Explorations" by Apple.
+  - A more beginner friendly book but reads nicely and has a ton of definitions for developer concepts and some nice examples to work through on my own time.
+  - However, they do not use SwiftUI as the main framework for UI appliance in the apps. They use UIkit so I have been skimming over these sections or dropping them all together as I'm pursuing SwiftUI in the mean time.
+  - The Playgrounds app has also been handy in reinforcing the concepts I'm learning while reading this book
+  
+## January 29 - 31, 2023
+
+- Discovered Apple's Dev tutorials page in the Developor section on the Apple website and have been living here 
+  - They have a great series for both Swift and SwiftUI that has a nice preview section with a step by step tutorial for making apps
+- Continued reading "Develop in Swift: Explorations"
+  - Unit 1 and 2 were very simple, meant for early, early programmers. 
+  - I'm curious to read the next installment in this 4 book series 
+## February 1 - 2, 2023
+- Continuing reading "Develop in Swift: Explorations" and have been narrowing ideas for an application in the near future to work on
+  - Stock Watch (real time stock APIs)
+  - Ecommerce clone (implement apple pay)
+  - Weather app (Real-time weather APIs)
+  - Food delivery clone (mapKit)
+- I'll have narrowed this down to 2 I think by the end of this text book
