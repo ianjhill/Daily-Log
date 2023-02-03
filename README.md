@@ -98,4 +98,5 @@
   - Ecommerce clone (implement apple pay)
   - Weather app (Real-time weather APIs)
   - Food delivery clone (mapKit)
+  - Watch Party App - Have started
 - I'll have narrowed this down to 2 I think by the end of this text book
