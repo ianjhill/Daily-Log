@@ -112,3 +112,7 @@
   - As for functionality, 
     - Most of the regular functionality of the IG Clone has been simple or learned through online forums
     - Firebase integration has been simple through Ben McMahen's blogs.
+
+## March 6, 2023
+- I've been exploring the idea of a personalized app after completing and publishing my IG Clone to my Github.
+  - I'll be on the lookout for ideas for this project but in the meantime I'm still reinforcing concepts with my IG Clone project.
