@@ -100,3 +100,15 @@
   - Food delivery clone (mapKit)
   - Watch Party App - Have started
 - I'll have narrowed this down to 2 I think by the end of this text book
+
+## February 3 - 20, 2023
+- While going through some chapters of Apple's Dev textbooks, I have decided to pursue a "learner's" project and create an InstagramClone to reinforce Swift concepts and also explore Firebase, a cloud storage service.
+- A shoutout to Ben McMahen's website on using Firebase in Swift, https://benmcmahen.com/authentication-with-swiftui-and-firebase/
+  - His blog posts have been incredibly helpful and made the jump to using Firebase that much simpler. 
+  
+## February 22 - March 5, 2023
+- I've taken the past 2 weeks to develop my InstagramClone learner's project.
+  - UI design has been relatively simple and all UI measurements and design decisions have been my own. 
+  - As for functionality, 
+    - Most of the regular functionality of the IG Clone has been simple or learned through online forums
+    - Firebase integration has been simple through Ben McMahen's blogs.
