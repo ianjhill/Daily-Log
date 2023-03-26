@@ -116,3 +116,10 @@
 ## March 6, 2023
 - I've been exploring the idea of a personalized app after completing and publishing my IG Clone to my Github.
   - I'll be on the lookout for ideas for this project but in the meantime I'm still reinforcing concepts with my IG Clone project.
+
+## March 12, 2023
+- The Instagram Clone is nearly finished and ready for publishing to my Github
+  - A few touchups with Firebase implementation
+  
+## March 26, 2023
+- Created a calculator app over the weekend and published it to Github as another small learner's project to help strengthen some core Swift concepts
